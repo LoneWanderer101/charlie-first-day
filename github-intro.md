@@ -16,7 +16,6 @@
 - informational commands: `ls`, `pwd`, `git status`
 
 ```
-#### Make a change in the repository and push a change
 - git status
 - git add <file-name>
 - git commit -m "a meaningful message about your changes"
